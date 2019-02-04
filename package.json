@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "prettier": "node_modules/.bin/prettier --config ./.prettierrc --write \"./leetcode/**/*.js\"",
+    "prettier-check": "node_modules/.bin/prettier --config ./.prettierrc --list-different \"./leetcode/**/*.js\""
   },
   "author": "zhenyi2697",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.0.0"
+    "jest": "^24.0.0",
+    "prettier": "^1.16.4"
   }
 }
