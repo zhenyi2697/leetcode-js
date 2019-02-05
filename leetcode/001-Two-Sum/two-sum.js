@@ -1,3 +1,6 @@
+// Source: https://leetcode.com/problems/two-sum/
+// Difficult: Easy
+
 /**
  * @param {number[]} nums
  * @param {number} target
