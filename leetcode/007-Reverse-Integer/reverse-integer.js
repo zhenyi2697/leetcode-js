@@ -5,7 +5,7 @@
  * @param {number} x
  * @return {number}
  */
-export const reverse = x => {
+const reverse = x => {
   const sign = x < 0 ? -1 : 1;
   const reversed = x
     .toString()
@@ -22,3 +22,5 @@ export const reverse = x => {
 
   return result;
 };
+
+module.exports = reverse;

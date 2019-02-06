@@ -6,7 +6,7 @@
  * @param {number} target
  * @return {number[]}
  */
-export const twoSum = (nums, target) => {
+const twoSum = (nums, target) => {
   const cache = new Map();
 
   for (let i = 0; i < nums.length; i++) {
@@ -19,3 +19,5 @@ export const twoSum = (nums, target) => {
 
   return [];
 };
+
+module.exports = twoSum;

@@ -1,4 +1,4 @@
-import { twoSum } from './two-sum';
+const twoSum = require('./two-sum');
 
 test('one solution', () => {
   const result = twoSum([1, 3, 4, 6], 9);

@@ -1,4 +1,4 @@
-import { reverse } from './reverse-integer';
+const reverse = require('./reverse-integer');
 
 test('0', () => {
   expect(reverse(0)).toBe(0);
