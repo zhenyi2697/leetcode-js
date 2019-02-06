@@ -13,7 +13,8 @@
     "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "lint": "node_modules/.bin/eslint \"./leetcode/**/*.js\"",
     "prettier": "node_modules/.bin/prettier --config ./.prettierrc --write \"./leetcode/**/*.js\"",
-    "prettier-check": "node_modules/.bin/prettier --config ./.prettierrc --list-different \"./leetcode/**/*.js\""
+    "prettier-check": "node_modules/.bin/prettier --config ./.prettierrc --list-different \"./leetcode/**/*.js\"",
+    "gr": "node ./generate-readme.js"
   },
   "author": "zhenyi2697",
   "license": "MIT",

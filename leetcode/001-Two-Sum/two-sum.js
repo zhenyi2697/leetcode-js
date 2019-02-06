@@ -1,5 +1,5 @@
 // Source: https://leetcode.com/problems/two-sum/
-// Difficult: Easy
+// Difficulty: Easy
 
 /**
  * @param {number[]} nums
