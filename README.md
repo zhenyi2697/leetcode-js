@@ -1,5 +1,5 @@
 # LeetCode solution and test using JavaScript
-[![Build Status](https://travis-ci.com/zhenyi2697/leetcode-js.svg?branch=master)](https://travis-ci.com/zhenyi2697/leetcode-js.svg?branch=master)
+[![Build Status](https://travis-ci.com/zhenyi2697/leetcode-js.svg?branch=master)](https://travis-ci.com/zhenyi2697/leetcode-js)
 [![Coverage Status](https://coveralls.io/repos/github/zhenyi2697/leetcode-js/badge.svg?branch=master)](https://coveralls.io/github/zhenyi2697/leetcode-js?branch=master)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
