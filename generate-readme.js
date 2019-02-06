@@ -19,7 +19,7 @@ console.log('Parse directories to generate table content...');
 const questions = fs.readdirSync(solutionPath);
 questions.forEach(qDir => {
   const qSplit = qDir.split('-');
-  const number = stringToNumber(qSplit.shift());
+  const number = parseInt(qSplit.shift(), 10);
   const title = buildTitle(qSplit);
   const { jsFileName, testFileName } = getSolutionFileNames(qDir);
   const { qLink, solutionLink, difficulty } = getSolutionInfo(qDir, jsFileName);
@@ -92,14 +92,6 @@ function getSolutionInfo(qDir, jsFileName) {
 
 function getTestInfo(qDir, testFileName) {
   return `${REPO_BASE_URL}/${qDir}/${testFileName}`;
-}
-
-function stringToNumber(str) {
-  let startIndex = 0;
-  while (str.charAt(startIndex) === '0') {
-    startIndex++;
-  }
-  return parseInt(str.substring(startIndex), 10);
 }
 
 function buildTitle(splits) {
