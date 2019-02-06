@@ -10,6 +10,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | # | Title | Solution | Tests | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/001-Two-Sum/two-sum.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/001-Two-Sum/two-sum.test.js) | Easy |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/007-Reverse-Integer/reverse-integer.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/007-Reverse-Integer/reverse-integer.test.js) | Easy |
 
 ## LICENSE
 MIT
