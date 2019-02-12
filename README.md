@@ -14,6 +14,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/009-Palindrome-Number/palindrome-number.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/009-Palindrome-Number/palindrome-number.test.js) | Easy |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/013-Roman-To-Integer/roman-to-integer.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/013-Roman-To-Integer/roman-to-integer.test.js) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.test.js) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.test.js) | Easy |
 
 ## LICENSE
 MIT
