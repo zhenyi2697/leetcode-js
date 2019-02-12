@@ -15,6 +15,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/013-Roman-To-Integer/roman-to-integer.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/013-Roman-To-Integer/roman-to-integer.test.js) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.test.js) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.test.js) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.test.js) | Easy |
 
 ## LICENSE
 MIT
