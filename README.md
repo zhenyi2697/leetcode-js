@@ -16,6 +16,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/014-Longest-Common-Prefix/longest-common-prefix.test.js) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/020-Valid-Parentheses/valid-parentheses.test.js) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.test.js) | Easy |
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/026-Remove-Duplicates-From-Sorted-Array/remove-duplicates-from-sorted-array.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/026-Remove-Duplicates-From-Sorted-Array/remove-duplicates-from-sorted-array.test.js) | Easy |
 
 ## LICENSE
 MIT
