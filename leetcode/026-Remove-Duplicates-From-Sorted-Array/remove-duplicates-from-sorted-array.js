@@ -6,12 +6,6 @@
  * @return {number}
  */
 export const removeDuplicates = nums => {
-  const swap = (nums, i, j) => {
-    const tmp = nums[i];
-    nums[i] = nums[j];
-    nums[j] = tmp;
-  };
-
   if (nums.length === 0) {
     return 0;
   }
@@ -24,7 +18,7 @@ export const removeDuplicates = nums => {
       continue;
     } else {
       prev = nums[i];
-      swap(nums, i, ++final);
+      nums[++final] = nums[i];
     }
   }
 
