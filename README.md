@@ -20,6 +20,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/027-Remove-Element/remove-element.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/027-Remove-Element/remove-element.test.js) | Easy |
 | 28 | [Implement Strstr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/028-Implement-strStr()/implement-strStr.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/028-Implement-strStr()/implement-strStr.test.js) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/035-Search-Insert-Position/search-insert-position.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/035-Search-Insert-Position/search-insert-position.test.js) | Easy |
+| 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/038-Count-And-Say/count-and-say.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/038-Count-And-Say/count-and-say.test.js) | Easy |
 
 ## LICENSE
 MIT
