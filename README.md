@@ -18,6 +18,7 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/021-Merge-Two-Sorted-Lists/merge-two-sorted-lists.test.js) | Easy |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/026-Remove-Duplicates-From-Sorted-Array/remove-duplicates-from-sorted-array.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/026-Remove-Duplicates-From-Sorted-Array/remove-duplicates-from-sorted-array.test.js) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/027-Remove-Element/remove-element.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/027-Remove-Element/remove-element.test.js) | Easy |
+| 28 | [Implement Strstr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/028-Implement-strStr()/implement-strStr.js) | [Jest](https://github.com/zhenyi2697/leetcode-js/blob/master/leetcode/028-Implement-strStr()/implement-strStr.test.js) | Easy |
 
 ## LICENSE
 MIT
