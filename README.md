@@ -6,6 +6,20 @@
 ## Why this repo ?
 This is my personal training project for LeetCode. As a FullStack developer, I want to practice the lastest feature of JavaScript. I also want to provide test cases for each question, which is missing in many similar projects.
 
+## Common data structures & API
+| Data Structure | Java | JavaScript | Examples |
+|:---:|:---:|:---:|:---:|
+|array|T[] dirs = new T[5];|new Array(5)|[array.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/array.js)|
+|dynamic array|ArrayList<T>|[]||
+|list|LinkedList<T>|N/A||
+|OrderedSet<br>OrderedMap|TreeSet<T><br>TreeMap<T1, T2>|N/A||
+|HashSet<br>HashMap|HashSet<T><br>HashMap<T1, T2>|Set()<br>Map()||
+|heap|PriorityQueue<T>|N/A||
+|queue<br>deque|Queue<T><br>Deque<T>|[] with Array APIs||
+|stack|Stack<T>|[] with Array APIs||
+|pair<br>tuple|N/A|Destructuring from object||
+|customized|class|class||
+
 ## Solved problems
 | # | Title | Solution | Tests | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
