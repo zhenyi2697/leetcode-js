@@ -1,3 +1,6 @@
+// Doc: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill
+// Not supported in IE
+
 // 1d
 const l = new Array(5);
 console.log(l.length);

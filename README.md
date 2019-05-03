@@ -15,8 +15,8 @@ This is my personal training project for LeetCode. As a FullStack developer, I w
 |OrderedSet<br>OrderedMap|TreeSet<T><br>TreeMap<T1, T2>|N/A||
 |HashSet<br>HashMap|HashSet<T><br>HashMap<T1, T2>|Set()<br>Map()||
 |heap|PriorityQueue<T>|N/A||
-|queue<br>deque|Queue<T><br>Deque<T>|[] with Array APIs||
-|stack|Stack<T>|[] with Array APIs||
+|queue<br>deque|Queue<T><br>Deque<T>|[] with push, pop, shift & unshift||
+|stack|Stack<T>|[] with push & pop||
 |pair<br>tuple|N/A|Destructuring from object||
 |customized|class|class||
 
