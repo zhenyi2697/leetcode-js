@@ -7,18 +7,19 @@
 This is my personal training project for LeetCode. As a FullStack developer, I want to practice the lastest feature of JavaScript. I also want to provide test cases for each question, which is missing in many similar projects.
 
 ## Common data structures & API
+This table below summarizes the common used data structures in JS and some examples using latest native APIs.
+
 | Data Structure | Java | JavaScript | Examples |
 |:---:|:---:|:---:|:---:|
 |array|T[] dirs = new T[5];|new Array(5)|[array.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/array.js)|
-|dynamic array|ArrayList<T>|[]||
-|list|LinkedList<T>|N/A||
-|OrderedSet<br>OrderedMap|TreeSet<T><br>TreeMap<T1, T2>|N/A||
-|HashSet<br>HashMap|HashSet<T><br>HashMap<T1, T2>|Set()<br>Map()||
-|heap|PriorityQueue<T>|N/A||
-|queue<br>deque|Queue<T><br>Deque<T>|[] with push, pop, shift & unshift||
-|stack|Stack<T>|[] with push & pop||
-|pair<br>tuple|N/A|Destructuring from object||
-|customized|class|class||
+|dynamic array|ArrayList<T>|[]|[dynamic-array.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/dynamic-array.js)|
+|list|LinkedList<T>|N/A|N/A|
+|OrderedSet<br>OrderedMap|TreeSet<T><br>TreeMap<T1, T2>|N/A|N/A|
+|HashSet<br>HashMap|HashSet<T><br>HashMap<T1, T2>|Set()<br>Map()|[set.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/set.js)<br>[map.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/map.js)|
+|heap|PriorityQueue<T>|N/A|N/A|
+|queue<br>deque|Queue<T><br>Deque<T>|[] with push, pop, shift & unshift|[queue-deque.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/queue-deque.js)|
+|stack|Stack<T>|[] with push & pop|[stack.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/stack.js)|
+|pair<br>tuple|N/A|Destructuring from object|[tuple.js](https://github.com/zhenyi2697/leetcode-js/blob/master/data-structures/tuple.js)|
 
 ## Solved problems
 | # | Title | Solution | Tests | Difficulty |
