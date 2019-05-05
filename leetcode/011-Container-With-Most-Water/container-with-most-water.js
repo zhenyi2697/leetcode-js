@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/container-with-most-water/submissions/
+// Source: https://leetcode.com/problems/container-with-most-water/
 // Difficulty: Medium
 
 /**
