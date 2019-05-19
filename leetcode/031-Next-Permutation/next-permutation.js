@@ -1,3 +1,6 @@
+// Source: https://leetcode.com/problems/next-permutation/
+// Difficulty: Medium
+
 /**
  * Reverse element at i and j
  * @param {number[]} nums
@@ -24,9 +27,6 @@ const reverse = (nums, start) => {
     j--;
   }
 };
-
-// Source: https://leetcode.com/problems/next-permutation/
-// Difficulty: Medium
 
 /**
  * @param {number[]} nums
